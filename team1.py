@@ -1,2 +1,2 @@
-message = "Vi lär oss Git tillsammans"
+message = "Vi lär ossss Git tillsammans"
 print(message)
